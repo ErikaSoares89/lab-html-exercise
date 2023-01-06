@@ -179,7 +179,6 @@ nav a {
     text-align:center;
     margin-top: 60px;
     font-size: 30px;
-	
 }
 
 .adjust {
@@ -187,8 +186,6 @@ nav a {
     flex-grow: 1;
     margin: 0 20% 0 20%;
     font-size:15px;
-
-    
 }
 
 .highlight {
@@ -226,7 +223,6 @@ nav a {
     flex-direction: row;
     max-width: 80%;
     margin:0 auto 100px auto;
-    
 }
 
 .features p {
@@ -238,7 +234,6 @@ nav a {
     flex-direction: column;
     margin-left: 50px;
     margin-right:60px;
-
 }
 
 .feature h2 {
@@ -248,14 +243,6 @@ nav a {
 .feature p {
     font-size: 12px;
 }   
-
-/* .feature:first-child {
-    margin-left: 150px;
-}
-
-.feature:last-child {
-    margin-right: 150px;
-} */
 
 .last-btn {
     display:flex;
